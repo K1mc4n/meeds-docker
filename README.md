@@ -196,7 +196,7 @@ The following environment variables should be passed to the container in order t
 
 ### LDAP / Active Directory
 
-The following environment variables should be passed to the container in order to configure the ldap connection pool :
+The following environment variables should be passed to the container in order to configure the LDAP connection pool:
 
 | VARIABLE               | MANDATORY | DEFAULT VALUE | DESCRIPTION                                                                                                                                  |
 | ---------------------- | --------- | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
